@@ -1,6 +1,4 @@
-import Navbar from './components/navbar/page';
-import About from './components/about/page';
-import Contact from './components/contact/page';
+
 
 export default function Home() {
   return (
